@@ -13,6 +13,8 @@
 		055C23D02485F825005A106A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 055C23CE2485F825005A106A /* Main.storyboard */; };
 		055C23D22485F826005A106A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 055C23D12485F826005A106A /* Assets.xcassets */; };
 		055C23D52485F826005A106A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 055C23D32485F826005A106A /* LaunchScreen.storyboard */; };
+		055C23DD2485F8CA005A106A /* Dreams.png in Resources */ = {isa = PBXBuildFile; fileRef = 055C23DC2485F8CA005A106A /* Dreams.png */; };
+		05D21EC42485FB6100D3CECE /* Dreams.png in Resources */ = {isa = PBXBuildFile; fileRef = 05D21EC32485FB6000D3CECE /* Dreams.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		055C23D12485F826005A106A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		055C23D42485F826005A106A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		055C23D62485F826005A106A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		055C23DC2485F8CA005A106A /* Dreams.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Dreams.png; path = ../../../iOS/Dreams.png; sourceTree = "<group>"; };
+		05D21EC32485FB6000D3CECE /* Dreams.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Dreams.png; path = ../../../iOS/Dreams.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +64,9 @@
 				055C23CA2485F825005A106A /* SceneDelegate.swift */,
 				055C23CC2485F825005A106A /* ViewController.swift */,
 				055C23CE2485F825005A106A /* Main.storyboard */,
+				055C23DC2485F8CA005A106A /* Dreams.png */,
 				055C23D12485F826005A106A /* Assets.xcassets */,
+				05D21EC32485FB6000D3CECE /* Dreams.png */,
 				055C23D32485F826005A106A /* LaunchScreen.storyboard */,
 				055C23D62485F826005A106A /* Info.plist */,
 			);
@@ -126,8 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				055C23D52485F826005A106A /* LaunchScreen.storyboard in Resources */,
+				055C23DD2485F8CA005A106A /* Dreams.png in Resources */,
 				055C23D22485F826005A106A /* Assets.xcassets in Resources */,
 				055C23D02485F825005A106A /* Main.storyboard in Resources */,
+				05D21EC42485FB6100D3CECE /* Dreams.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
